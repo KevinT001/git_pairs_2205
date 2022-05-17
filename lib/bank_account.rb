@@ -10,7 +10,11 @@ class BankAccount
   end
 
   def deposit(amount)
+
     x = "Eli's method here"
+    dfadfdfsf
+
+
   end
 
   def withdraw(amount)
